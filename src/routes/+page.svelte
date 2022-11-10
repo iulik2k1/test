@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br /> iulik dev
+		to your new<br /> iulik2 dev
 	</h1>
 
 	<h2>
